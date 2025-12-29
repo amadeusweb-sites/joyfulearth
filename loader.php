@@ -1,4 +1,4 @@
 <?php
-include_once '../../dawn/entry.php';
+include_once '../../../dawn/spring/entry.php';
 disk_include_once(__DIR__ . '/network.php');
-runFrameworkFile('site');
+runFrameworkFile('site/begin');

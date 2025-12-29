@@ -1,11 +1,11 @@
 #key	value
-name	Yaseva - Joyism Founder
+name	Yaseva - Joyist Nation Organizations' Founder
 byline	Establishing Joy on Earth
 safeName	joyfulearth-yaseva
 iconName	Yaseva of JE
 footer-message	[todo: footer]
 siteMenuName	JE Yaseva
-sections	
-local-url	http://localhost/joyfulearth/yaseva/
+sections	creativity
+local-url	http://localhost/organizations/joyfulearth/yaseva/
 live-url	https://yaseva.joyfulearth.org/
 year	2025

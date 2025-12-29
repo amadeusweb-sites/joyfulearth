@@ -1,11 +1,11 @@
 #key	value
-name	India @ JoyfulEarth
+name	India @ Joyist Nation Organizations (JNO)
 byline	[todo: byline]
 safeName	joyfulearth-india
 iconName	JE India
 footer-message	[todo: footer]
 siteMenuName	JE India
-sections	south, west
-local-url	http://localhost/joyfulearth/india/
+sections	Pan India: south+west
+local-url	http://localhost/organizations/joyfulearth/india/
 live-url	https://india.joyfulearth.org/
 year	2025

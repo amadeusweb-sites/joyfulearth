@@ -14,10 +14,12 @@ Our plans to %GoGreen% include tailor made ways to handle this at scale includin
 based on the outlined letter, kindly make a full proposal including a placeholder for chennai statistics and an intro about ourselves
 -->
 
-# GoGreen Initiative for Waste Management in Chennai
+> GoGreen Initiative for Waste Management in Chennai
 
-## Introduction: About Team Joyism
-Team Joyism is a collective of environmentally conscious individuals and organizations dedicated to fostering sustainable living practices. Our mission is to create a cleaner, greener, and healthier environment by addressing pressing issues such as waste management, pollution, and resource conservation. With a strong presence in Chennai, we aim to collaborate with local authorities, businesses, and residents to implement impactful solutions.
+## Introduction: About Team %JNO%
+Team %JNO% is a collective of environmentally conscious individuals and organizations dedicated to fostering sustainable living practices. Our mission is to create a cleaner, greener, and healthier environment by addressing pressing issues such as waste management, pollution, and resource conservation. With a strong presence in Chennai, we aim to collaborate with local authorities, businesses, and residents to implement impactful solutions.
+
+<!--more-->
 
 ---
 
@@ -35,7 +37,7 @@ Chennai, as one of India's largest metropolitan cities, faces significant challe
 ---
 
 ## Proposed GoGreen Solutions
-To address these challenges, Team Joyism proposes the following tailor-made solutions:
+To address these challenges, Team %JNO% proposes the following tailor-made solutions:
 
 ### 1. Strategic Alliances
 - Partner with waste management service providers and vendors to ensure efficient collection, segregation, and recycling.
@@ -80,4 +82,4 @@ The GoGreen initiative is a comprehensive approach to tackling Chennai's waste m
 We look forward to your support and collaboration in making this vision a reality.
 
 **Sincerely,**  
-%Team Joyism%
+Team %JNO%

@@ -1,11 +1,11 @@
 #key	value
-name	JoyfulEarth (Joyism)
+name	Joyist Nation Organizations
 byline	Fulfilling life's purpose for all
 safeName	joyfulearth
-iconName	JE Home
+iconName	JNO [Joyism]
 footer-message	[todo: footer]
-siteMenuName	JE Home
+siteMenuName	JNO Home
 sections	movements
-local-url	http://localhost/joyfulearth/main/
+local-url	http://localhost/organizations/joyfulearth/main/
 live-url	https://joyfulearth.org/
 year	2019

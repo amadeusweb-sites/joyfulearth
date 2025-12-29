@@ -1,11 +1,11 @@
 #key	value
-name	America @ JoyfulEarth
+name	America @ Joyist Nation Organizations (JNO)
 byline	[todo: byline]
 safeName	joyfulearth-america
 iconName	JE America
 footer-message	[todo: footer]
 siteMenuName	JE America
 sections	
-local-url	http://localhost/joyfulearth/america/
+local-url	http://localhost/organizations/joyfulearth/america/
 live-url	https://america.joyfulearth.org/
 year	2025
