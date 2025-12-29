@@ -29,7 +29,7 @@ function setupSiteVars() {
 		'rawReplaces' => [
 			'JNO' => '<span class="cursive">[Joyist Nation Organizations](%urlOf-joyfulearth%about-jno/BTNOUTLINEINFO)</span>',
 			'JoyfulEarth' => '<span class="cursive">[JE](%urlOf-joyfulearth%)</span>',
-			'Yaseva' => '<span class="cursive">[Yaseva](%urlOf-yaseva%BTNOUTLINEWARNING)</span>',
+			'DrYaseva' => '<span class="cursive">[Dr Yaseva, Founder](%urlOf-yaseva%BTNOUTLINEWARNING)</span>',
 			'Joyism' => '<span class="cursive">[The Joyism Movement](%urlOf-joyism%)</span>',
 
 			'GoGreen' => '<span class="cursive">[GO Green](%urlOf-joyfulearth%climate-change/programs/go-green/)</span>',
@@ -37,7 +37,7 @@ function setupSiteVars() {
 			'AYUSH+' => '<span class="cursive">[AYUSH+](#%urlOf-joyfulearth%/wellbeing/programs/ayush-plus/)</span>',
 			//'' => '<span class="cursive">[](%urlOf-%)</span>',
 		],
-		'below-countdown' => 'The **life\'s work** of %Yaseva% &rarr; %JNO% is set to launch on [Oct 2nd 2025](%urlOf-joyfulearth%calendar/BTNSITE).',
+		'below-countdown' => 'The **life\'s work** of %DrYaseva% &rarr; %JNO% is set to launch on [Jan 26th 2026](%urlOf-joyfulearth%calendar/BTNSITE)',
 		'countdown-params' => 'data-year="2026" data-month="1" data-day="26"  data-hour="12" data-minute="00" data-format="dHMS"',
 	]);
 }
