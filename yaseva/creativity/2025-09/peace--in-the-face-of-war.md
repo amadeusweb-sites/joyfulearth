@@ -1,10 +1,10 @@
 <!--autop-->
 
-<!--/ /meta
+<!--//meta
 Salutation: Respected Yaseva Sir,
 Email To: yaseva.joyism+peace-poem-feedback@gmail.com
 WhatsApp To: +919884411839
-/ /meta-->
+//meta-->
 
 <h2>Check this</h2>
 
@@ -49,12 +49,4 @@ Quarantine Israeli tourists who have come to their nations,
 hold them as soft hostages till Bibi Haas,
 his sordid crime, made peace prevailed for Palestinians.
 
-<!--
-[spacer ]Give us feedback[/ spacer]
-<!--start-engage- ->
-
-## Join Us
-
-* That we may make peace together
-* Dont let any new grief separate us
--->
+%music-feedback-snippet%

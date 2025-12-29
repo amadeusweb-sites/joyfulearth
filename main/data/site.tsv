@@ -5,7 +5,7 @@ safeName	joyfulearth
 iconName	JNO [Joyism]
 footer-message	[todo: footer]
 siteMenuName	JNO Home
-sections	movements
+sections	movements, whois
 local-url	http://localhost/organizations/joyfulearth/main/
 live-url	https://joyfulearth.org/
 year	2019

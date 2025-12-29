@@ -1,2 +1,2 @@
 <?php
-autoSetNode(1, __DIR__, [DontOverwriteLogo => true]);
+autoSetNode(1, __DIR__);
