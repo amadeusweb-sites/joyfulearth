@@ -2,8 +2,6 @@
 //DEFINE('SITENETWORK', 'joyism');
 
 DEFINE('NETWORKPATH', __DIR__);
-//DEFINE('NETWORKDATA', __DIR__ . '/main/data/for-network/');
-DEFINE('NETWORKMAIN', 'main');
 
 setupSiteVars();
 
@@ -22,7 +20,7 @@ function setupSiteVars() {
 
 	runFeature('engage'); //needed for floating button
 	variables([
-		'network' => 'Joyful Earth',
+		'network' => 'Joyist Nations',
 		'mediakit' => '?themecolor=007F0E&content=eed&paler=eec&node=B9D3E4&heading=1BAB29&footer=aac&dont-round-logo=1'
 			. '&cursive=Yeseva+One&menu=Eagle+Lake&menu-size=1.1rem',
 		'footer-variation' => 'no-widget', //TODO: change when sections / social / SITENETWORK is added

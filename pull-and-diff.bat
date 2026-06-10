@@ -1,6 +1,6 @@
 git pull
 start TortoiseGitProc /command:diff
-cd ..\dawn\spring\
+cd ..\..\spring\
 git pull
 start TortoiseGitProc /command:diff
 pause
