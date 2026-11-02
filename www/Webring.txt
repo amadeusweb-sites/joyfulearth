@@ -1,0 +1,10 @@
+~Joyful Earth
+joyfulearth/www
+joyfulearth/movements/joyism
+
+~Authors
+joyfulearth/people/yaseva
+
+~Places
+joyfulearth/places/india
+joyfulearth/places/america

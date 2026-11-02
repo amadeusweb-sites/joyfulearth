@@ -23,8 +23,7 @@ function setupSiteVars() {
 		'network' => 'Joyist Nations',
 		'mediakit' => '?themecolor=007F0E&content=eed&paler=eec&node=B9D3E4&heading=1BAB29&footer=aac&dont-round-logo=1'
 			. '&cursive=Yeseva+One&menu=Eagle+Lake&menu-size=1.1rem',
-		'footer-variation' => 'no-widget', //TODO: change when sections / social / SITENETWORK is added
-		'rawReplaces' => [
+		replacer::siteReplaces => [
 			'JNO' => '<span class="cursive">[Joyist Nation Organizations](%urlOf-joyfulearth%about-jno/BTNOUTLINEINFO)</span>',
 			'JoyfulEarth' => '<span class="cursive">[JE](%urlOf-joyfulearth%)</span>',
 			'DrYaseva' => '<span class="cursive">[Dr Yaseva, Founder](%urlOf-yaseva%BTNOUTLINEWARNING)</span>',
